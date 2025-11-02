@@ -1,0 +1,15 @@
+https://eb1v6k1091.execute-api.us-west-1.amazonaws.com/mobileLinkAccount
+{
+    "oculusID": "name",
+    "mobileCode": "code",
+    "linkVersion": 0,
+    "mobilePassword": ""
+    "password": "c69|Nng>\u00a3]z0"
+}
+accept:/
+content-type:application/json
+accept-encoding:gzip, deflate, br
+x-unity-version:6000.1.5f1
+user-agent:Yeeps/0 CFNetwork/3826.500.131 Darwin/24.5.0
+accept-language:en-GB,en;q=0.9
+content-length:169
